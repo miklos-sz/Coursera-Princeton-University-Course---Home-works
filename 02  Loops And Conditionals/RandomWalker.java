@@ -31,9 +31,9 @@ public class RandomWalker {
                 double randDouble = Math.random(); // Generates random double.
 
                 if (randDouble < 0.25) y += 1;
-                if (randDouble > 0.25 && randDouble < 0.50) y += -1;
-                if (randDouble > 0.50 && randDouble < 0.75) x += 1;
-                if (randDouble > 0.75) x += -1;
+                if (randDouble >= 0.25 && randDouble < 0.50) y += -1;
+                if (randDouble >= 0.50 && randDouble < 0.75) x += 1;
+                if (randDouble >= 0.75) x += -1;
 
                 steps++; // Increments number of steps.
 
