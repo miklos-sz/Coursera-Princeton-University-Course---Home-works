@@ -2,6 +2,6 @@
  *  Name:              Miklós Szilas
  *  Email:             szilas.miklos@gmail.com
  *  Last modified:     ${DAY}/${MONTH}/${YEAR}
- *  Program:           ${FILENAME}
+ *  Program:           ${FILENAME}.java
  *  Description:       
  **************************************************************************** */
