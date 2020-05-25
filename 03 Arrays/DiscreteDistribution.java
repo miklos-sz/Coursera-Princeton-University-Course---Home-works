@@ -1,5 +1,5 @@
 /* *****************************************************************************
- *  Name:              Miklós Szilas
+ *  Name:              Miklos Szilas
  *  Coursera User ID:  szilas.miklos@gmail.com
  *  Last modified:     19/04/2020
  *  Program:           DiscreteDistribution.java
